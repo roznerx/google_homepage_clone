@@ -1,0 +1,109 @@
+.body {
+    background-color: white;
+}
+
+#google_bar {
+    display: flex;
+    line-height: 35px;
+    margin-left: 65px;
+}
+
+#gmail_text {
+    color: rgba(0,0,0,0.87);
+    font-family: arial,sans-serif;
+    font-size: 13px;
+    margin-top: 5px;
+    padding-left: 1300px;
+    padding-right: 5px;
+    width: auto;
+    align: middle;
+}
+
+#img_text {
+    color: rgba(0,0,0,0.87);
+    font-family: arial,sans-serif;
+    font-size: 13px;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+
+#google_apps {
+    margin-left: 20px;
+    margin-right: -40px;
+    border-top: 5px;
+    height: -5px;
+    line-height: 45px;
+}
+
+#sign_in_image {
+    margin-left: 55px;
+    margin-top: 5px;
+}
+
+.profile-pic {
+    border-radius: 50%;
+}
+
+.google-logo {
+    max-height: 20%;
+    max-width: 20%;
+    object-fit: contain;
+    object-position: center;
+    width: auto;     
+    margin-left: 635px;
+    margin-top: 35px;
+}
+
+#searchbox {
+    margin-left: 535px;
+    
+}
+
+
+#searchbar {
+    border: 0;
+    border-color: transparent;
+    width: 450px;
+    height: 25px;
+}
+
+#google_buttons {
+    margin-left: 625px;
+    
+}
+
+.search-with-Google {
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    color: #3c4043;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+}
+
+.feeling-lucky {
+    margin-left: 50px;
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    color: #3c4043;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+}
+
