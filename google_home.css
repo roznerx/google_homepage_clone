@@ -2,6 +2,11 @@
     background-color: white;
 }
 
+.container {
+    max-width: 800px;
+    width: 100%;
+}
+
 #google_bar {
     display: flex;
     line-height: 35px;
@@ -106,4 +111,40 @@
     cursor: pointer;
     user-select: none;
 }
+
+
+
+#bottom_navbar {
+    margin-left: -40px;
+    margin-top: 260px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    font-size: 14px;
+    font-family: arial,sans-serif;
+    color: #222;
+}
+
+li {
+    float: left;
+    list-style: none
+}
+
+a {
+    display: block;
+    padding: 8px;
+    background-color: transparent;
+}
+
+.about, .news, .business, .howitworks, .privacity, .terms, .preferences {
+    color: #70757a;
+    display: block;
+    padding: 15px;
+    white-space: nowrap;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: arial,sans-serif;
+    margin-right: auto;
+}
+
 
